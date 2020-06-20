@@ -1,0 +1,45 @@
+body{
+    font-family: 'Lucida Grande';
+}
+a{
+    text-decoration: none;
+}
+
+.cle{
+    clear: left;
+}
+.colom-utama{
+    padding-bottom: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+.kotak{
+    max-width: 1170px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.sekolah{
+    float: left;
+    width: 25%;
+}
+
+.sekolah-icon img{
+    width: 200px;
+    height: 150px;
+}
+.sekolah-icon p{
+    color: #b3aeb5;
+}
+
+.txt{
+    width: 80%;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #b3aeb5;
+}
