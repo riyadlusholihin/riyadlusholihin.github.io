@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding:0;
+}
 body{
     font-family: 'Lucida Grande';
 }
@@ -41,5 +45,20 @@ a{
     display: inline-block;
     margin-top: 20px;
     font-size: 15px;
+    color: #b3aeb5;
+}
+
+.bagian1{
+    padding-bottom: 0px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: white;
+    color: #b3aeb5;
+}
+.bagian2{
+    padding-bottom: 0px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #f7f7f7;
     color: #b3aeb5;
 }
