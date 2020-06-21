@@ -1,10 +1,7 @@
 * {
     margin: 0;
     padding:0;
-}
-
-* {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 body {
@@ -84,9 +81,6 @@ a{
     text-decoration: none;
 }
 
-.cle{
-    clear: left;
-}
 .colom-utama{
     padding-bottom: 30px;
     padding-left: 5%;
@@ -106,7 +100,6 @@ a{
     float: left;
     width: 25%;
 }
-
 .sekolah-icon img{
     width: 200px;
     height: 150px;
@@ -130,6 +123,7 @@ a{
     background-color: white;
     color: #b3aeb5;
 }
+
 .bagian2{
     padding-bottom: 0px;
     padding-left: 5%;
