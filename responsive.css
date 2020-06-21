@@ -9,4 +9,19 @@
     .sekolah{
         width: 100%;
     }
+    .bagian1{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .bagian1 img{
+        display: none;
+    }
+
+    .bagian2{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .bagian2 img{
+        display: none;
+    }
 }
