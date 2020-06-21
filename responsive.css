@@ -9,6 +9,16 @@
     .sekolah{
         width: 100%;
     }
+
+    .header-right {
+    display: none;
+  }
+
+    .menu-icon {
+    display: block;
+  }
+
+    
     .bagian1{
         padding-top: 10px;
         padding-bottom: 10px;
