@@ -13,7 +13,7 @@ a {
   text-decoration: none;
 }
 
-.clear {
+.cle {
   clear: left;
 }
 
@@ -72,13 +72,6 @@ header {
   font-size: 25px;
   padding: 21px 0;
   display: none;
-}
-
-body{
-    font-family: 'Lucida Grande';
-}
-a{
-    text-decoration: none;
 }
 
 .colom-utama{
