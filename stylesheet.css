@@ -7,6 +7,7 @@
 body {
   margin: 0;
   font-family: "Lucida Grande";
+  font-color: black;
 }
 
 a {
@@ -22,6 +23,61 @@ a {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://raw.githubusercontent.com/silvyavyaa/silvyavyaa.github.io/master/school%20i13.jpg);
+  background-size: cover;
+  color: black;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  font-size: 60px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  margin-bottom: 3px;
+}
+
+.btn-wrapper {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.SD {
+  background-color: black;
+}
+
+.SMP {
+  background-color: black;
+}
+
+.SMA {
+  background-color: black;
+}
+
+.SMK {
+  background-color: black;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.btn:hover {
+  opacity: 0.5;
 }
 
 .fa {
@@ -123,4 +179,48 @@ header {
     padding-right: 5%;
     background-color: #f7f7f7;
     color: #b3aeb5;
+}
+
+.heading h2 {
+  padding-top: 40px;
+}
+
+.heading h3 {
+  font-weight: normal;
+  padding-bottom: 15px;
+}
+
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.message {
+  padding: 15px 40px;
+  background-color: black;
+  cursor: pointer;
+  box-shadow: 0 7px gray;
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+footer img {
+  width: 190px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 17px;
+  font-display: auto;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
 }
